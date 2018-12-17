@@ -3,6 +3,9 @@
  *
  *Copyright (c) 2016, Мирная Софья <mirnaya@cs.karelia.ru>
  *
+ *
+ *
+ * Изменен
  *This code is licensed under a MIT-style lilense
  */
 
